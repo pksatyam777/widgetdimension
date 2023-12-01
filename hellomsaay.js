@@ -13,7 +13,7 @@ class VideoWidget {
                 margin: 0;
                 padding: 0;
             }
-            .video-widget-container {
+            #video-widget-container {
                 width: 865px;
                 height: 300px;
             }
